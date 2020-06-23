@@ -1,0 +1,10 @@
+$ git --version
+$ git --global user.name"saiful5891"
+$ git config --global user.email "saiful5891@gmail.com"
+$  ls
+$ git status
+$ touch .gitignore
+.....................
+
+$ git init
+
