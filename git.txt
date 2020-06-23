@@ -2,9 +2,11 @@ $ git --version
 $ git --global user.name"saiful5891"
 $ git config --global user.email "saiful5891@gmail.com"
 $  ls
+$  ls -la
 $ git status
 $ touch .gitignore
 .....................
+PC to github
 
 $ git init
 $ git add *
@@ -13,27 +15,28 @@ $ git status
 $ git commit -m "This is fist commit"
 
 $ git log
-  file gia php code write and save
+  file git.php code write and save
 $ git status
 $ git add index.php
 $ git commit -m "here chenge php"
 $ git status
 $ git log
 
-go github +Ne repositr copy link and past cmd
+go github +New repositr copy link and past cmd
 $ git remote add origin https://github.com/saiful5891/git-tutorial.git
 change locl file
 
 $ git status
 $ git add index.php
+$ git add --all
 $ git commit -m "modified indes.php file"
 $ git push -u origin master
 
-## git clone= pc te come
+## git clone= github to pc 
 $ git init
 $ git clone https://github.com/saiful5891/git-tutorial.git
 
-#### other people edit in github
+#### other people edit in github : github to pc
 $ git pull https://github.com/saiful5891/git-tutorial.git
 
 
