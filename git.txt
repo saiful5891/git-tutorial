@@ -7,4 +7,34 @@ $ touch .gitignore
 .....................
 
 $ git init
+$ git add *
+$ git log
+$ git status
+$ git commit -m "This is fist commit"
+
+$ git log
+  file gia php code write and save
+$ git status
+$ git add index.php
+$ git commit -m "here chenge php"
+$ git status
+$ git log
+
+go github +Ne repositr copy link and past cmd
+$ git remote add origin https://github.com/saiful5891/git-tutorial.git
+change locl file
+
+$ git status
+$ git add index.php
+$ git commit -m "modified indes.php file"
+$ git push -u origin master
+
+## git clone= pc te come
+$ git init
+$ git clone https://github.com/saiful5891/git-tutorial.git
+
+#### other people edit in github
+$ git pull https://github.com/saiful5891/git-tutorial.git
+
+
 
