@@ -2,6 +2,7 @@ $ git --version
 $ git --global user.name"saiful5891"
 $ git config --global user.email "saiful5891@gmail.com"
 $  ls
+$  ls -la
 $ git status
 $ touch .gitignore
 .....................
@@ -14,14 +15,14 @@ $ git status
 $ git commit -m "This is fist commit"
 
 $ git log
-  file gia php code write and save
+  file git.php code write and save
 $ git status
 $ git add index.php
 $ git commit -m "here chenge php"
 $ git status
 $ git log
 
-go github +Ne repositr copy link and past cmd
+go github +New repositr copy link and past cmd
 $ git remote add origin https://github.com/saiful5891/git-tutorial.git
 change locl file
 
