@@ -28,7 +28,7 @@ change locl file
 
 $ git status
 $ git add index.php
-$ git add --all
+$ git add .
 $ git commit -m "modified indes.php file"
 $ git push -u origin master
 
@@ -38,6 +38,10 @@ $ git clone https://github.com/saiful5891/git-tutorial.git
 
 #### other people edit in github : github to pc
 $ git pull https://github.com/saiful5891/git-tutorial.git
+$ git pull
+
+------Branch -----
+$git 
 
 
 
