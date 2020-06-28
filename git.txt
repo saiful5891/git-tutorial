@@ -1,4 +1,5 @@
 $ git --version
+
 $ git --global user.name"saiful5891"
 $ git config --global user.email "saiful5891@gmail.com"
 $  ls
@@ -41,7 +42,12 @@ $ git pull https://github.com/saiful5891/git-tutorial.git
 $ git pull
 
 ------Branch -----
-$git 
+$git branch -a
+$git checkout -b my work
+$git push
+$git checkout develop
+
+
 
 
 
