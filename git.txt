@@ -40,4 +40,14 @@ $ git clone https://github.com/saiful5891/git-tutorial.git
 $ git pull https://github.com/saiful5891/git-tutorial.git
 
 
+Branch
+$ git pull
+$ git checkout develop
+.............................
+$ git checkout -b PH-Class
+$ git puss
+
+
+
+
 
